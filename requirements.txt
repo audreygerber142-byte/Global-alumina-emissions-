@@ -1,0 +1,9 @@
+Flask>=3.1
+pandas>=2.2
+numpy>=2.0
+requests>=2.32
+skyfield>=1.49
+sgp4>=2.24
+scipy>=1.14
+plotly>=6.0
+folium>=0.18
